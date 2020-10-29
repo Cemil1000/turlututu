@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nav {
+    background-color: #333333;
+    display: flex;
+}
+#nav a {
+    color: white;
+    text-decoration: none;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+#nav img:nth-last-child(2) {
+    width: 17px;
+    height: 23px;
+    margin-top: 12px;
+}
+
+#part1{
+    background-color: #0093C8;
+}
+#part2{
+    text-align: center;
+}
+#part3{
+    background-color: #0093C8;
+}
+#top{
+    display: flex;
+}
+#part4{
+    text-align: center;
+    color: rgb(116, 113, 113);
+}
+#marque{
+    background-color: #EEEEEE;
+}
+#marque img{
+    display: block;
+    margin: auto;
+}
+#navFooter{
+    background-color: #333333;
+    display: flex;
+}
+#navFooter a{
+    padding-top: 10px;
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+#navFooter p {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
